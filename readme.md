@@ -11,7 +11,7 @@ This is a Django REST framework project for managing vendors, purchase orders, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vendor-management.git
+git clone https://github.com/ArhamKhanPathan/vendor-management.git
 cd vendor-management
 ```
 
@@ -126,4 +126,4 @@ Authentication is required for certain endpoints. Use the credentials of the sup
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Replace placeholders like `yourusername`, `vendor-management`, and others with your actual project details. Make sure to add or modify any additional details specific to your project.
+Replace placeholders like `ArhamKhanPathan`, `vendor-management`, and others with your actual project details. Make sure to add or modify any additional details specific to your project.
